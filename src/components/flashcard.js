@@ -23,7 +23,7 @@ class Flashcard extends Component {
     const keysLength = keys.length;
 
     // Get random key index
-    const keyIndex = Math.floor(Math.random() * keysLength);
+    const keyIndex = Math.floor(Math.random() * keysLength); //keysLength - 1;
 
     // Get target text
     const text = this.state.bacData["opere"][itemIndex][keys[keyIndex]];
