@@ -6,7 +6,7 @@
       "specie": "- basm cult",
       "autor": "- Ion Creanga\n- Cel mai mare povestitor din literatura romana.\n- Clasic al literaturii romane, alaturi de Ion Luca Caragiale, Ioan Slavici si Mihai Eminescu, promovati de Titu Maiorescu si revista \"Convorbiri literare\".",
       "aparitie": "- 1877 \"Convorbiri literare\", ziarul \"Timpul\".",
-      "titlul": "- prezinta specia careia ii apartine si numele protagonistului primit dupa schimbarea identitatii cu spanul in fantanta\n- reprezinta un oximoron deoarece alatura 2 termeni ce se neaga \"harap\"-negru, rob si \"alb\"-libertate, adevar, puritate.",
+      "titlul": "- Prezinta specia careia ii apartine si numele protagonistului primit dupa schimbarea identitatii cu spanul in fantanta\n- reprezinta un oximoron deoarece alatura 2 termeni ce se neaga \"harap\"-negru, rob si \"alb\"-libertate, adevar, puritate.",
       "perspectiva narativa": "- narator obiectiv, omniscient, omniprezent, care povesteste la persoana a III-a prin focalizare \"zero\" si viziune \"dindarat\"\n- apar abateri de la obiectivitate prin folosirea dativului etic cand naratorul isi arata preferinta pentru protagonist\n- in finalul basmului, naratorul devine personaj si participant la nunta \"povestariu\"",
       "relatii spatiale": "- spatiu fantstic, neprecizat, nemarginit \"intr-o tara indepartata\", \"la o margine a Pamantului\", \"la o alta margine\", distanta mare dintre cele doua tari stapanite de cei doi frati justificand faptul ca nu se vazusera de mult timp si verii nu se cunosteau intre ei.",
       "relatii temporale": "- perspectiva cronologica, timpul fiind fabulos, neprecizat, oferit prin formula initiala specifica \"Amu cica era odata\".",
@@ -28,6 +28,21 @@
       "teme romantice": "istoria, patriotismul, luptele sociale, dorinta de razbunare si marire, soarta schimbatoare",
       "motive romantice": "otravirea, calugarirea, ucideri, schingiuiri, rasturnari de domni",
       "procedee romantice": "antiteza, evocarea culorii locale, tirade, subiectivismul relativ al naratorului, motto-ul fiecarui capitol"
+    },
+    {
+      "nume": "Ultima noapte de dragoste, intaia noapte de razboi",
+      "gen": "- epic",
+      "specie": "- roman modern, subiectiv, psihologic, al experientei, citadin, social, realizat, interbelic",
+      "autor": "- Camil Petrescu, considerat cel mai reprezentativ sustinator al modernismului lovinescian",
+      "aparitie": "- 1930",
+      "titlul": "- Reda cele 2 experiente fundamentale traite de protagonist: iubirea si razboiul, carora li se adauga substantivul \"noapte\", care reda simbolic incertitudinea, indoiala, irationalul, absurdul firii umane, legate de modul in care se raporteaza la cele 2 experiente.",
+      "perspectiva narativa": "- subiectiva, moderna, realizata de catre un narator-personaj, ce povesteste la persoana I, prin focalizare \"interna\" si viziune \"impreuna cu\"",
+      "alte moduri de expunere": "- monologul interior\n- introspectia psihologica\n- flashback\n- descriere\n- dialog",
+      "tema": "- Prezinta drama intelectualului lucid, insetat de absolutul sentimentului de iubire, dominat de incertitudini, care se salveaza prin constientizarea unei drame mult mai profunde, aceea a razboiului, o confruntare absurda si tragica, o iminenta a mortii, ce cuprinde intreaga omenire si depaseste drama esecului personal in iubire.",
+      "repere spatiale": "- un spatiu real, deschis, dat de Bucuresti, Odobesti, Campulung, Valea Prahovei, Azuga\n- un spatiu imaginar, inchis, psihologic, in care sunt redate framantarile, chinurile si zbuciumul din constiinta protagonistului",
+      "perspectiva temporala": "- moderna, discontinua, bazata pe alternanta temporala a evenimentelor, redate prin memorie afectiva involuntara, procedeu preluat de la Marcel Proust\n- Timpul obiectuv (cronologic) evolueaza in paralel cu timpul subiectiv (psihologic).\n- Timpul obiectiv prezinta evenimentele in primavara anului 1916 si le urmareste pe timpul razboiului, iar timpul subiectiv, care apare prin memorie afectiva involuntara prezinta povestea de iubire, naratorul intorcandu-se cu 2 ani si jumatate in urma fata de timpul obiectiv.",
+      "structura": "- 2 parti (\"Cartea intai\" si \"Cartea a doua\") care au impreuna 13 capitole cu titluri-sinteza (\"Diagonalele unui testament\", \"Ne-a acoperit pamantul lui Dumnezeu\")\n- Romanul se bazeaza pe jurnalul de campanie al sublocotenentului Stefan Gheorghidiu, in care consemneaza in timp obiectiv imaginea frontului, introducant episoadele iubirii si casatoria cu Ela, in timp subiectiv.\n- Este un monolog, deoarece autorul jurnalului se destainuie, se analizeaza cu luciditate, se zbuciuma intre certitudine si incertitudine, atat in planul erotic, cat si in planul tragediei razboiului. El reuseste sa depaseasca drama esecului in iubire absoluta, prin constientizarea dramei razboiului, cand omenirea este intre viata si moarte.",
+      "geneza": "- Experienta iubirii este fictionala, doarece autorul nu traise pana atunci o drama in iubire sau casatorie.\n- Experienta razboiului se bazeaza pe jurnalul de front tinut de Camil Petrescu ca ofiter in timpul Primului Razboi Mondial, asadar o experienta reala."
     }
   ]
 }
