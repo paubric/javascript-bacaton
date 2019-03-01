@@ -25,9 +25,9 @@
       "relatii spatiale": "- Un spatiu real deschis, dat de Moldova, Cetatea Hotinului, Tecuci\n- Un spatiu imaginar, inchis, in mintea si sufletul protagonistului, macinat de razbunare",
       "relatii temporale": "- Evenimentele sunt prezentate cronologic pe parcursul celor 5 ani de domnie, in sec. al XVI-lea, 1564-1569.",
       "structura": "- Clasica, solida, nuvela fiind alcatuita din 4 capitole, fiecare avand un motto semnificativ:\n1. Capitolul I: \"Daca voi nu ma vreti, eu va vreu\"\n1. Capitolul II: \"Ai sa dai sama, doamna!\"\n1. Capitolul III: \"Capul lui Motoc vrem...\"\n1. Capitolul IV: \"De ma voi scula, pre multi am sa popesc si eu...\"",
-      "teme romantice": "istoria, patriotismul, luptele sociale, dorinta de razbunare si marire, soarta schimbatoare",
-      "motive romantice": "otravirea, calugarirea, ucideri, schingiuiri, rasturnari de domni",
-      "procedee romantice": "antiteza, evocarea culorii locale, tirade, subiectivismul relativ al naratorului, motto-ul fiecarui capitol"
+      "teme romantice": "- istoria, patriotismul, luptele sociale, dorinta de razbunare si marire, soarta schimbatoare",
+      "motive romantice": "- otravirea, calugarirea, ucideri, schingiuiri, rasturnari de domni",
+      "procedee romantice": "- antiteza, evocarea culorii locale, tirade, subiectivismul relativ al naratorului, motto-ul fiecarui capitol"
     },
     {
       "nume": "Ultima noapte de dragoste, intaia noapte de razboi",
@@ -96,6 +96,20 @@
       "geneza": "- propria copilarie ca fiu de invatator intr-un sat din Ardeal, sub ocupatie austro-ungara\n- povestirea surorii sale despre o fata bogata din sat, cumplit batuta de tata, deoarece ramasese insarcinata cu un baiat sarac, ce-i urmarea doar zestrea\n- scena vazuta de scriitor la intoarcere de la vanatoare, cand observa un taran ingenunghiat ce-si saruta pamantul \"ca pe-o ibovnica\"\n- discutia scriitorului cu un tanar taran, Ion Boldijar, harnic, dar sarac, care vorbeste despre dorinta de a avea pamant cu atata patima, ca despre o fiinta vie",
       "structura": "- doua parti, \"Glasul pamantului\" si \"Glasul iubirii\", ce au impreuna 13 capitole cu titluri-sinteza \"Inceputul\", \"Zvarcolirea\", \"Nunta\", \"George\", \"Vasile\", \"Streangul\"... \"Sfarsitul\"",
       "personaje": "1. Alexandru Pop + Zenobia = Ion\n2. Maxim Oprea + Todosia = Florica\n3. Ana Baciu este fata lui Vasile Baciu, cea mai bogata din sat\n4. preotul Ioan Belciug\n5. Zaharia Herdelea + Maria = Laura (+ George Pintea = Maria), Ghighi, Titu"
+    },
+    {
+      "nume": "Baltagul",
+      "gen": "- epic",
+      "specie": "- roman mitic-traditional, social, realist, interbelic",
+      "autor": "- Mihail Sadoveanu",
+      "aparitie": "- 1930 dupa 17 zile de redactare",
+      "titlul": "- Denumeste toporul cu doua taisuri, unealta des folosita de moldovenii ce traiesc in zona de munte si se ocupa cu taiatul lemnului si pastoritul.\n- arma magica din basmele populare ce ramane patata de sangele victimri la o fapt nedreapta\n- In greaca \"labrys\" este ominim pentru baltag si labirint. Vitoria parcurge un labirint exterior, drumul in cautarea barbatului si un labirint interior, de la intuneric la lumina, in aflarea adevarului si infaptuirea justitiei.",
+      "perspectiva narativa": "- narator obiectiv, omniscient, omniprezent, care povesteste la persoana a III-a prin focalizare \"zero\" si viziune \"dindarat\"\n- narator mesager, in persoana Vitoriei, care in prolog povesteste o legenda adesea spusa de Nechifor, sotul ei, in vreme de toamna si iarna, la petreceri. De aceasta legenda, femeia isi aduce aminte prin memorie involuntara afectiva",
+      "relatii spatiale": "- Un spatiu real deschis, dat de Moldova, localitatile Magura Tarcaului, Cruci, Suha, Sabasa, Dorna, Doi Meri, Muntele Stanisoara\n- Un spatiu imaginar, inchis, in mintea si sufletul personajului",
+      "relatii temporale": "- Romanul are actiunea petrecuta cronologic, din toamna pana in primavara, fara a fi precizat anul, deoarece Vitoria traieste intr-un timp mitic, al datinilor si spiritualitatii stravechi, cu valabilitate in orice epoca, respectand acelasi tip de existenta de generatii.",
+      "structura": "- 16 capitole, romanul avand o componenta traditional-mitica si una epico-realista, care se intrepatrund pe parcursul firului narativ unic",
+      "tema": "- ilustreaza perspectiva romaneasca traditionala, conturand fiinta arhaica a satului moldovenesc, prin scoaterea in evidenta a sufletului taranului, pastrator al acestor datini si traditii, aratand felul sau de a gandi, de a simti si reactiona la provocarile vietii. El apara aceste datini si traditii care reprezinta principii existentiale fundamentale, statornicite din vremuri imemoriale.",
+      "geneza": "- Autorul preia tema, motive, conflictul, discursul epic simplu, conceptia asupra mortii, din balada populara \"Miorita\".\n- Legatura profunda cu animalul credincios si spiritul justitiar preluate din baladele populare \"Dolca\" si \"Salga\".\n- Scriitorul citeste un articol in ziar despre uciderea unui cioban de alti doi tovarasi, ca sa-i fure turma."
     }
   ]
 }
