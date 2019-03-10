@@ -10,7 +10,7 @@ class Flashcard extends Component {
 
   getRandomData() {
     // Get number of items
-    const bacDataLength = this.state.bacData["opere"].length;
+    const bacDataLength = 5; //this.state.bacData["opere"].length;
 
     // Get random item index
     const itemIndex = Math.floor(Math.random() * bacDataLength);
